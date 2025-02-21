@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi I am Yunkyeong Jang, software engineer. 👋 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://developer7133.tistory.com/)
+
 ![yuni02's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuni02&show_icons=true&theme=cobalt)
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://developer7133.tistory.com/)
 <!--
 **yuni02/yuni02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
